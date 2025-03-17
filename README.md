@@ -12,7 +12,7 @@
 <p align="justify" >Driven by the power of hate and a desire for a more remote and flexible lifestyle.
 <br>
 <br>
-<p align="center"><i>This account is dedicated to mandatory university projects. For my real work and personal projects, visit my main <a href="https://github.com/SiadeBreak">account</a>.</i></p>
+<p align="center"><i>This account is dedicated to mandatory university projects. For my real work and personal projects, visit my main <a href="https://github.com/SiadeLucas">account</a>.</i></p>
 
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
@@ -22,7 +22,7 @@
     
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lima-siade-a6aa672ba/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siadelucas/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siadelucas/)
 
 ### GitHub Stats
